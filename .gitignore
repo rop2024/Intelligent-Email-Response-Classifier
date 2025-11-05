@@ -72,3 +72,6 @@ datasets_cache/
 # Misc
 *.egg
 *.whl
+
+# Model description files
+model_desp
