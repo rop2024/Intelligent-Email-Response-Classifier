@@ -1,0 +1,10 @@
+{
+  "selected_model": "baseline",
+  "baseline_accuracy": 0.9976525821596244,
+  "baseline_f1": 0.997652553055194,
+  "hf_accuracy": 1.0,
+  "hf_f1": 1.0,
+  "f1_improvement": 0.002347446944806042,
+  "speed_ratio": 257.04118017199187,
+  "reason": "Minimal performance gain doesn't justify complexity/speed cost"
+}
